@@ -11,7 +11,7 @@
     -   User can sell their inventory items.
     
 
-##Setup
+## Setup
 
 ● Install MAMP or XAMPP
 
